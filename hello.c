@@ -1,10 +1,8 @@
 #include <std.lib>
-
+#include <stdio.h>
 
 public int main(){
 	
-	print("Hello Git!");
-	
-
+	printf("Hello Git!");
 	return 0;
 }
